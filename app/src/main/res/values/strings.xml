@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EmptyApp</string>
+    <string name="hola_mundo">Hola mundo</string>
+    <string name="nameDev">Josue Valdez</string>
+    <string name="hintName">Primer nombre</string>
+    <string name="textLarge">Android Studio es el IDE oficial para el desarrollo nativo en android</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="register">Registrarse</string>
+    <string name="tyc">Acepto los términos y condiciones</string>
+    <string name="forgot_password">Olvidé mi contraseña</string>
+    <string name="loginTitle">Identíficate</string>
+
+    <string-array name="countries">
+        <item>Perú</item>
+        <item>Argentina</item>
+        <item>España</item>
+        <item>Mexico</item>
+        <item>Brasil</item>
+        <item>Chile</item>
+    </string-array>
+</resources>

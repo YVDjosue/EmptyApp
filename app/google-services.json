@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124936427833",
+    "project_id": "emptyapp-abcf3",
+    "storage_bucket": "emptyapp-abcf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124936427833:android:3db624f1c37ec6a7f1b0e8",
+        "android_client_info": {
+          "package_name": "com.wanku.emptyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124936427833-5ru23rut977r7o3ifri4e15p339pbqf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGtiF6jLAQgKdQN3GMlrVfm7a9ekby2jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124936427833-5ru23rut977r7o3ifri4e15p339pbqf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
